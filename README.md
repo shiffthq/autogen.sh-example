@@ -1,4 +1,6 @@
 ## A autogen.sh Example
+[![Build Status](https://travis-ci.org/shiffthq/autogen.sh-example.svg?branch=master)](https://travis-ci.org/shiffthq/autogen.sh-example)
+
 A simple example for [autogen.sh](http://buildconf.brlcad.org/)
 
 ## .gitignore
